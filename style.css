@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+       
+}
+
+.section, footer{
+    background-color: rgb(175, 166, 166);
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header{
+    background-color: rgb(77, 98, 194);
+    margin: 0;
+    position: relative;
+    display: flex;
+    width: 100%;         
+}
+
+.menu{
+    font-size: 30px;
+    color: white;
+}
+
+ul .header{
+    border-radius: 50%;
+}
+
+.h1{
+    color: rgb(39, 39, 228);
+    font-size: 4em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.h2, .h3{
+    color: rgb(43, 43, 138);
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h3{
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
+
+.somos{
+    font-size: 22px;
+    margin: 20px 150px;
+    letter-spacing: 1px;
+    line-height: 35px;
+}
+
+.table{
+    color:  rgb(43, 43, 138);
+    background-color: rgb(190, 199, 201);
+    font-size: 22px;
+    
+}
+
+.table--title{
+    font-size: 25px;
+    font-weight: bolder;
+    
+}
+.table--footer{
+    font-size: 15px;
+    margin: 10px 20px;
+}
+
+.local, .localizacao{
+    text-align: center;
+    
+}
+
+.localizacao{
+    font-size: 10px;
+    margin-top: 5px;
+}
+
+.questionario{
+    padding: 20px;
+    border: 1px solid black;
+}
+
+
